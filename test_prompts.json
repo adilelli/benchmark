@@ -1,0 +1,18 @@
+[
+  {
+    "input": "I want to book a session with Dr Ahmad",
+    "expected_function": "bookAppointment"
+  },
+  {
+    "input": "I want to buy this ruler",
+    "expected_function": "purchaseItem"
+  },
+  {
+    "input": "Hit me up with Mr Chee at Zus Coffee Sunday 6 July",
+    "expected_function": "bookAppointment"
+  },
+  {
+    "input": "What did I buy last night",
+    "expected_function": "viewPurchaseHistory"
+  }
+]

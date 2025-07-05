@@ -1,0 +1,46 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "bookAppointment",
+      "description": "book appointment",
+      "parameters": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "purchaseItem",
+      "description": "Purchase Item according to the user's prompt",
+      "parameters": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "viewPurchaseHistory",
+      "description": "View history purchased by user",
+      "parameters": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "viewAppointmentHistory",
+      "description": "view appointment history by user",
+      "parameters": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  }
+]
