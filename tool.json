@@ -1,0 +1,13 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "bookAppointment",
+      "description": "book appointment",
+      "parameters": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  }
+]

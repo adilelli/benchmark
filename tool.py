@@ -5,12 +5,12 @@ import time
 from datetime import datetime
 
 # Load test prompts from file
-def load_test_cases(filename="test_prompts.json"):
+def load_test_cases(filename="test_prompts_single.json"):
     with open(filename, "r") as f:
         return json.load(f)
 
 # Load tools from file
-def load_tools(filename="tools_list.json"):
+def load_tools(filename="tool.json"):
     with open(filename, "r") as f:
         return json.load(f)
 
