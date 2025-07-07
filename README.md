@@ -5,10 +5,10 @@ This is for benchmark testing LLM installed from Ollama for function calls and l
 cd ~/THIS_PROJECT
 
 ## Create a virtual environment
-python3 -m venv venv
+python3 -m venv benchmark
 
 ## Activate it (macOS/Linux)
-source venv/bin/activate
+source benchmark/bin/activate
 
 ## For Windows (PowerShell)
 venv\Scripts\Activate.ps1
